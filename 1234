@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+    <a href="http://www.google.com/intl/en/privacy" target="_blank">ссылка на гугл</a>
+    <a href="#section1">Перейти к разделу 2</a>
+    <h1>раздел 1</h1>
+    <h2>d="section1">раздел 2</h2>
+    <img src="./Ryo Yamada.jpeg" alt="Мое изображение">
+    <img src="https://images.app.goo.gl/DBt9hUwqgkv2ohEN6" alt="Пример изображения">
+    <img src="./Ryo Yamada.jpeg" alt="Описание изображения" width="600" height="100">
+
+</body>
+</html>
